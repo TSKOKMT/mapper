@@ -1,0 +1,6 @@
+ofxOpenCv
+ofxQuadWarp
+ofxSyphon
+ofxTskokmtMath
+ofxTskokmtTool
+ofxXmlSettings
